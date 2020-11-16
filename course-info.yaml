@@ -1,0 +1,12 @@
+title: ECP Python Course
+language: English
+summary: |-
+  Python course.
+  Created: Nov 11, 2020, 9:46:18 AM.
+programming_language: Python
+environment: unittest
+solutions_hidden: true
+content:
+- basics
+- challenges
+- Palindrome Tasks

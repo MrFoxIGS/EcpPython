@@ -1,0 +1,16 @@
+type: edu
+files:
+- name: __init__.py
+  visible: false
+- name: LetterList.py
+  visible: false
+- name: tests/test_palindrome2.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: palindrome2.py
+  visible: true
+  placeholders:
+  - offset: 29
+    length: 132
+    placeholder_text: '# TODO'

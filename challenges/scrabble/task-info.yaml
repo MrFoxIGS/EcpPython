@@ -1,0 +1,16 @@
+type: edu
+files:
+- name: scrabble.py
+  visible: true
+  placeholders:
+  - offset: 65
+    length: 497
+    placeholder_text: '# TODO'
+- name: tests/test_scrabble.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: scrabble.PNG
+  visible: true

@@ -1,0 +1,14 @@
+type: edu
+files:
+- name: tests/test_hello_function.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: hello_function.py
+  visible: true
+  placeholders:
+  - offset: 24
+    length: 15
+    placeholder_text: '#TO DO'

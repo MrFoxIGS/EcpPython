@@ -1,0 +1,20 @@
+type: edu
+files:
+- name: squares.py
+  visible: true
+  placeholders:
+  - offset: 27
+    length: 82
+    placeholder_text: write code here
+  - offset: 139
+    length: 82
+    placeholder_text: write code here
+  - offset: 270
+    length: 44
+    placeholder_text: write code here
+- name: tests/test_squares.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false

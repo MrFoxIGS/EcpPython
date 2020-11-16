@@ -1,0 +1,14 @@
+type: edu
+files:
+- name: dna.py
+  visible: true
+  placeholders:
+  - offset: 49
+    length: 303
+    placeholder_text: write code here
+- name: tests/test_dna.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false

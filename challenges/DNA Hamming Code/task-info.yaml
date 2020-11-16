@@ -1,0 +1,14 @@
+type: edu
+files:
+- name: hamming.py
+  visible: true
+  placeholders:
+  - offset: 156
+    length: 95
+    placeholder_text: your code goes here
+- name: tests/test_hamming.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false

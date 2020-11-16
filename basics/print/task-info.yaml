@@ -1,0 +1,13 @@
+type: output
+custom_name: Hello, World!
+files:
+- name: main.py
+  visible: true
+  placeholders:
+  - offset: 31
+    length: 22
+    placeholder_text: '# TODO'
+- name: __init__.py
+  visible: false
+- name: tests/output.txt
+  visible: false

@@ -1,0 +1,16 @@
+type: edu
+files:
+- name: tests/test_bottles.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: Capture.PNG
+  visible: true
+- name: bottles.py
+  visible: true
+  placeholders:
+  - offset: 46
+    length: 900
+    placeholder_text: Code goes here

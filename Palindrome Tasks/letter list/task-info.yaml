@@ -1,0 +1,14 @@
+type: edu
+files:
+- name: tests/test_letter_list.py
+  visible: false
+- name: __init__.py
+  visible: false
+- name: tests/__init__.py
+  visible: false
+- name: LetterList.py
+  visible: true
+  placeholders:
+  - offset: 28
+    length: 332
+    placeholder_text: '# TODO'
